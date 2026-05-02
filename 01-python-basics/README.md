@@ -2,21 +2,29 @@
 
 ## 学习目标
 
-掌握机器学习所需的 Python 数据处理三件套：
+掌握机器学习的数据处理工具链，理解其背后的计算原理。
 
-- **NumPy** — 高效数值计算（向量、矩阵运算）
-- **Pandas** — 数据加载、清洗、分析
-- **Matplotlib** — 数据可视化
+**本模块不只是教你用 API，而是让你理解：**
+- 为什么 NumPy 比原生 Python 快 100 倍（内存布局与向量化）
+- 矩阵运算在机器学习中的实际意义
+- 如何用可视化发现数据中的模式
 
-## 为什么需要这些？
+## 前置要求
 
-机器学习的本质是对数据做数学运算。这三个库分别解决：
-- 怎么高效地算（NumPy）
-- 怎么方便地处理数据（Pandas）
-- 怎么直观地看数据（Matplotlib）
+- Python 基础语法（变量、函数、循环、列表）
 
 ## 学习顺序
 
-1. `numpy_basics.py` — NumPy 数组与运算
-2. `pandas_basics.py` — DataFrame 操作
-3. `matplotlib_basics.py` — 绑图与可视化
+| 文件 | 内容 | 预计时间 |
+|------|------|----------|
+| `theory.md` | 向量、矩阵、广播机制的数学含义 | 30 min |
+| `code/01_numpy_deep.py` | NumPy 深度教程：内存模型、向量化、广播 | 60 min |
+| `code/02_pandas_practical.py` | Pandas 完整数据分析流程 | 60 min |
+| `code/03_matplotlib_viz.py` | Matplotlib 数据可视化实战 | 45 min |
+| `code/04_mini_project.py` | 综合项目：探索性数据分析（EDA） | 90 min |
+
+## 与后续模块的关系
+
+- NumPy 的矩阵运算 → 阶段 02 线性代数的代码实现基础
+- Pandas 的数据处理 → 阶段 03 开始每个模型都需要数据预处理
+- Matplotlib 的可视化 → 贯穿所有阶段，用于理解数据和模型行为
