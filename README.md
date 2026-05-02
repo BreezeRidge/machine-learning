@@ -18,6 +18,19 @@
 
 - **吴恩达 Machine Learning (Coursera)** — 最经典的入门课，直觉解释极好
 - **吴恩达 Deep Learning Specialization** — 深度学习五门课，理论+编程作业
+- **[《动手学深度学习》d2l-zh](https://github.com/d2l-ai/d2l-zh)** — 李沐著，70+国家500+大学采用，可运行 Notebook，在线阅读：[zh.d2l.ai](https://zh.d2l.ai)
+- **[林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)** — 台大课程，数学推导最严谨的中文课程
+
+### GitHub 资源库
+
+| 仓库 | 说明 |
+|------|------|
+| [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) | 60k+ stars，ML 资源总索引 |
+| [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) | 经典书籍 PDF 合集 |
+| [awesome-AI-books](https://github.com/zslucky/awesome-AI-books) | AI 书籍合集，含 PDF 和配套代码 |
+| [西瓜书笔记](https://github.com/Vay-keen/Machine-learning-learning-notes) | 周志华《机器学习》详细读书笔记 |
+| [Hands-On ML 中译](https://github.com/apachecn/hands-on-ml-2e-zh) | scikit-learn 实战指南中文版 |
+| [d2l-zh 配套课程](https://github.com/d2l-ai/courses-zh-v2) | 动手学深度学习配套视频 |
 - **林轩田《机器学习基石》+《机器学习技法》** — 数学推导最严谨的中文课程
 - **3Blue1Brown 线性代数/微积分系列 (YouTube)** — 数学直觉可视化，强烈推荐
 
